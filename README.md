@@ -14,5 +14,5 @@
 
 ##Demo
 ![Demo](https://raw.githubusercontent.com/wat2rtsui/WaterPayDemo/master/Demo.gif)
-
-if this is helpful, click a star for me😜
+<br>
+<h3> if this is helpful, click a star for me😜</h2>
