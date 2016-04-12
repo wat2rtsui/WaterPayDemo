@@ -1,6 +1,10 @@
 # WaterPayDemo
 ![Hero](https://raw.githubusercontent.com/wat2rtsui/WaterPayDemo/master/hero.png)
 
+## Requirements
+* iOS8 or later
+* ARC
+
 ## Simpler than Simpler
 * Imitate Alipay use TouchID to unlock apps
 * You can add this to your apps now!
@@ -12,7 +16,7 @@
 [self Author];
 ```
 
-##Demo
+## Demo
 ![Demo](https://raw.githubusercontent.com/wat2rtsui/WaterPayDemo/master/Demo.gif)
 <br>
 <h3> if this is helpful, click a star for me😜</h2>
