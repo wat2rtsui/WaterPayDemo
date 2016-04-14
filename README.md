@@ -16,7 +16,7 @@
 [self Author];
 ```
 
-## Demo
+## How it look
 ![Demo](https://raw.githubusercontent.com/wat2rtsui/WaterPayDemo/master/Demo.gif)
 <br>
 <h3> if this is helpful, click a star for me😜</h2>
